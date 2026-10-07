@@ -1,6 +1,10 @@
 <extend template="base.shtml">
 <head id="head">
 	<style>
+        body {
+            background-color: lightblue;
+		}
+		
 		#prev-next {
 			display: flex;
 			flex-direction: row;
