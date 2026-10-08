@@ -2,28 +2,28 @@ h1,
 h2,
 h3,
 h4,
-h5 {
-  color: #ddd;
+h5 { /* header */
+  color: #A3A6FF;
   font-family: "Verdana", sans-serif;
 }
 
-b,
+b, /* bold */
 strong {
-  color: #fff;
+  color: #B1B1B1;
 }
 
-a {
-  color: #eee;
+a { /* hyperlink */
+  color: #1B1B1B;
 }
 
-html {
-  color: #ccc;
-  font-family: "Georgia", serif;
+html { /* regular text */
+  color: #A3A6FF;
+  font-family: 'Source Code Pro', monospace;
   font-size: 1.2em;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: #111;
+  background-color: #494C99;
 }
 
 body {
@@ -32,6 +32,7 @@ body {
   padding: 15px;
   display: flex;
   flex-direction: column;
+  background-color: #2B2D6B;
 }
 
 .site-title {
