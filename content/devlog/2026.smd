@@ -1,0 +1,24 @@
+---
+.title = "Devlog - 2026",
+.date = .date("2026-10-07T00:00:00"),
+.layout = "devlog.shtml",
+---
+[]($section.id('about'))
+# About this Devlog
+
+This is where you can see previous website updates:
+
+> This is a non-exhaustive, curated list of changes meant to help users quickly see what has improved since they last checked.
+>
+> You can [subscribe to this page via RSS]($link.page('devlog').alternative('rss')) (I have no clue what this does).
+>
+> This page lists entries for the current year, for past entries consult the
+[devlog archive](/devlog/).
+
+## [Actual Developments]($section.id("2026-10-07T00:00:00"))
+I actually did stuff to the website! It is no longer default, and has been rethemed.
+I've also added an actual homepage and a blog post.
+
+## [Hello Zine]($section.id("2026-10-05T00:00:00"))
+This is the first entry in this year's devlog created with
+[Zine](https://zine-ssg.io)! < this is the default text that was created, but it fits. This website was created today.
