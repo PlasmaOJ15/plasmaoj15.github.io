@@ -2,21 +2,21 @@ h1,
 h2,
 h3,
 h4,
-h5 { /* header */
+h5 { /* Header */
   color: #A3A6FF;
   font-family: "Verdana", sans-serif;
 }
 
-b, /* bold */
+b, /* Bold */
 strong {
   color: #B1B1B1;
 }
 
-a { /* hyperlink */
+a { /* Hyperlink */
   color: #1B1B1B;
 }
 
-html { /* regular text */
+html { /* Regular text */
   color: #A3A6FF;
   font-family: 'Source Code Pro', monospace;
   font-size: 1.2em;
