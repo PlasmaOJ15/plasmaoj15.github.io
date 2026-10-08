@@ -1,0 +1,15 @@
+---
+.title = "Wow a website",
+.date = .date("2026-10-07T00:00:00"),
+.layout = "post.shtml",
+---
+
+Alright so, I decided to sit down and actually try to make a website.
+Technically I started yesterday, and by started, I mean that I got the
+default Zine website to load up when I went to my GitHub pages website,
+so I guess that's something.
+
+Shout out to Kai Fireye for telling me how to start (and for also letting me steal some of their code)
+
+Anyways here is a crappy picture of an owl I saw on Monday
+[Said owl](<$image.asset("owl.jpg").alt("A crappy image of an owl covered in shadow in front of a brick building")>)
