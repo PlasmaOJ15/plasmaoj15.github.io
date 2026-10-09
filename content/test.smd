@@ -1,0 +1,8 @@
+---
+.title = "Test Page",
+.date = .date("2026-10-07T00:00:00"),
+.layout = "test.shtml",
+---
+> []($block)
+[You're not supposed to be here. Go ]($text.attrs('wave'))
+[HOME](/)
