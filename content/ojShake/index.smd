@@ -1,0 +1,9 @@
+---
+.title = "ojShakeTest",
+.date = .date("2026-10-10T00:00:00"),
+.layout = "test.shtml",
+---
+
+[](<$image.asset("ojshake.gif")>)
+
+[return](/)

@@ -1,0 +1,19 @@
+---
+.title = "Page Not Found!",
+.date = .date("1990-01-01T00:00:00"),
+.layout = "404.shtml",
+.aliases = [
+    "/404.html",
+],
+---
+
+The page does not exist :(
+
+
+literally
+
+
+you cant see this error page
+
+
+whoops

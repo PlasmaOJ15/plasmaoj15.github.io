@@ -47,11 +47,17 @@ body {
 }
 
 nav {
-  display: flex;
+  display: inline-flex;
+  align-items: flex-end;
   flex-direction: row;
   justify-content: left;
   font-size: 1.2em;
   margin-bottom: 20px;
+  background-color: #000000aa;
+}
+
+nav img {
+  vertical-align: bottom;
 }
 
 pre {

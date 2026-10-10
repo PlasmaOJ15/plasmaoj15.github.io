@@ -15,10 +15,17 @@ This is where you can see previous website updates:
 > This page lists entries for the current year, for past entries consult the
 [devlog archive](/devlog/).
 
+## [Theme Revamp]($section.id("2026-10-10T00:00:00"))
+The Retheme has been Rethemed, with the "iconic" blue space background, as well as some updated colors.
+I've also added a new logo, and little version of me chilling at the top of the site.
+On that line, the first of (hopefully many) secrets has been added.
+
 ## [Actual Developments]($section.id("2026-10-07T00:00:00"))
 I actually did stuff to the website! It is no longer default, and has been rethemed.
 I've also added an actual homepage and a blog post.
 
 ## [Hello Zine]($section.id("2026-10-05T00:00:00"))
 This is the first entry in this year's devlog created with
-[Zine](https://zine-ssg.io)! < this is the default text that was created, but it fits. This website was created today.
+[Zine](https://zine-ssg.io)!
+
+This is the default text that was created, but it fits. This website was created today.

@@ -14,7 +14,7 @@
 		<super>
 	</head>
 	<body id="body">
-		<h1 class="site-title" :text="$site.title"></h1>
+		<a href="$site.page('').link()"><img src="$site.asset('nameLogo.png').link()" width=500></a>
 		<nav>
 			<a href="$site.page('').link()">Home</a>
 			&nbsp; • &nbsp;
@@ -25,12 +25,13 @@
 				&nbsp; • &nbsp;
 				<a href="$if.link()">Devlog</a>
 			</ctx>
+			<a href="$site.page('ojShake').link()"><img src="$site.asset('headerOJ.png').link()" width=200></a>
 		</nav>
 		<super>
 		<footer>
 			<hr>
-            <a href="mailto:plasmaoj15@gmail.com">Contact: plasmaoj15@gmail.com</a>
-            <a href="https://github.com/PlasmaOJ15/plasmaoj15.github.io">Website Source Code</a>
+			<a href="mailto:plasmaoj15@gmail.com">Contact: plasmaoj15@gmail.com</a>
+			<a href="https://github.com/PlasmaOJ15/plasmaoj15.github.io">Website Source Code</a>
 			<h5>SITE UNDER CONSTRUCTION</h5>
 			<img src="$site.asset('under-construction.gif').link()" width=90>
 		</footer>
