@@ -4,6 +4,8 @@
 .layout = "test.shtml",
 ---
 
-[](<$image.asset("ojshake.gif")>)
-
-[return](/)
+```=html
+<div>
+    <a href=".."><img src="../ojshake.gif" alt=""></a>
+</div>
+```

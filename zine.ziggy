@@ -8,5 +8,7 @@
     .static_assets = [
         "favicon.ico",
         "spaceBG.jpg",
+        "testWind.mp3",
+        "ojshake.gif",
     ],
 }),
