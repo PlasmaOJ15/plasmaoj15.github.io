@@ -3,7 +3,7 @@ h2,
 h3,
 h4,
 h5 { /* Header */
-  color: #A3A6FF;
+  color: #FFF;
   font-family: "Verdana", sans-serif;
 }
 
@@ -17,17 +17,13 @@ a { /* Hyperlink */
 }
 
 html{ /* Regular text */
-  background-image: url('spaceTemp.jpg');
-	background-size: cover;
-  background-position: center;
- 	background-repeat: no-repeat;
-  background-attachment: fixed;
   color: #A3A6FF;
   font-family: 'Source Code Pro', monospace;
   font-size: 1.2em;
   display: flex;
   flex-direction: row;
   justify-content: center;
+  background-color: #000;
 }
 
 body {

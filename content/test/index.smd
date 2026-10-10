@@ -6,3 +6,5 @@
 > []($block)
 [You're not supposed to be here. Go ]($text.attrs('wave'))
 [HOME](/)
+
+[ ](<$image.asset("errorOJ.png")>)

@@ -13,10 +13,15 @@ strong {
 }
 
 a { /* Hyperlink */
-  color: #1B1B1B;
+  color: #B1B1B1;
 }
 
 html { /* Regular text */
+  background-image: url('spaceBG.jpg');
+	background-size: cover;
+  background-position: center;
+ 	background-repeat: no-repeat;
+  background-attachment: fixed;
   color: #A3A6FF;
   font-family: 'Source Code Pro', monospace;
   font-size: 1.2em;
@@ -32,7 +37,7 @@ body {
   padding: 15px;
   display: flex;
   flex-direction: column;
-  background-color: #2B2D6B;
+  background-color: #1B1B1Baa;
 }
 
 .site-title {
