@@ -1,0 +1,66 @@
+---
+.title = "Games Archive",
+.date = .date("2026-11-12T00:00:00"),
+.layout = "devlog.shtml",
+---
+[]($section.id('about'))
+
+## [Blue Lou's TV Repair]($section.id("2026-10-19T00:00:00"))
+
+[](<$image.asset("images/BlueLou.png")>)
+
+[Play Here](https://plasmaoj15.itch.io/blue-lous-tv-repair)
+
+Repair the TVs, and keep track of the ones that are working so they don't explode!
+
+Created as part of Ludum Dare 60
+
+## [Moving Up]($section.id("2026-09-28T00:00:00"))
+
+[](<$image.asset("images/MovingUp.png")>)
+
+[Play Here](https://plasmaoj15.itch.io/moving-up)
+
+A rage game about climbing a mountain... by possessing and launching your enemies!
+
+Created as part of the Texas Game Jam 2026
+
+## [Eyeless Temple]($section.id("2026-03-31T00:00:00"))
+
+[](<$image.asset("images/EyelessTemple.png")>)
+
+[Play Here](https://plasmaoj15.itch.io/eyeless-temple)
+
+Vampire Survivors like game where you can only attack by guiding a massive beast!
+
+Created as part of the UA Spring 2026 Game Jam
+
+## [Rapture Crafter]($section.id("2025-10-21T00:00:00"))
+
+[](<$image.asset("images/RaptureCrafter.png")>)
+
+[Play Here](https://plasmaoj15.itch.io/rapture-crafter)
+
+Craft a new afterlife by rapturing the most moral people!
+
+Created as part of the UA Fall 2025 Game Jam
+
+## [A Gallery of Homes]($section.id("2025-05-01T00:00:00"))
+
+[](<$image.asset("images/GalleryOfHomes.png")>)
+
+[Play Here](https://plasmaoj15.itch.io/a-gallery-of-homes)
+
+An experimental art piece where you explore 3 different collages.
+
+Created for my ISTA 301 class at the University of Arizona
+
+## [TimeSpace: A Space Time Excursion]($section.id("2024-10-21T00:00:00"))
+
+[](<$image.asset("images/Timespace.png")>)
+
+[Play Here](https://plasmaoj15.itch.io/timespace)
+
+A mazerunner where time is of the essence, literally. Get to the end of the maze before the time runs out!
+
+Created as part of the UA Fall 2024 Game Jam

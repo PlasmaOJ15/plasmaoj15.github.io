@@ -21,6 +21,8 @@
 			<a href="$site.page('about').link()">About</a>
 			&nbsp; • &nbsp;
 			<a href="$site.page('blog').link()">Blog</a>
+			&nbsp; • &nbsp;
+			<a href="$site.page('projects').link()">Projects</a>
 			<ctx :if="$site.page('devlog').subpages().first?()">
 				&nbsp; • &nbsp;
 				<a href="$if.link()">Devlog</a>
