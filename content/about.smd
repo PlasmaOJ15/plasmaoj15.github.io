@@ -1,54 +1,31 @@
 ---
 .title = "About",
-.date = .date("1990-01-01T00:00:00"),
+.date = .date("2026-12-11T00:00:00"),
 .layout = "index.shtml",
 ---
 
-# About Zine
-Zine is an MIT-licensed project created by [Loris Cro](https://kristoff.it) and
-other contributors listed on the [official repository](https://github.com/kristoff-it/zine/contributors).
+# Who am I?
 
-Zine is inspired by [Hugo](https://gohugo.io) but features an entirely custom set
-of authoring languages:
+Hi! I'm OJ Rodriquez (He/Him), but online I tend to go by PlasmaOJ15 (I got this username as a kid and never bothered to change it).
 
-- [Scripty](https://zine-ssg.io/docs/scripty/) is the small expression
-  language that both SuperHTML and SuperMD share to express templating logic.
+I'm a 20 year old Computer Science student at the University of Arizona, with a minor in Game Development. I have interests in basically all things tech.
+I've played around with programming, game development, video production, music production, VR, 3D modeling, 3D printing, and probably more I cannot remember.
 
-- [SuperHTML](https://zine-ssg.io/docs/superhtml/) is the HTML templating
-   language used by Zine. Unlike most `{{curly braced}}` templating languages,
-   SuperHTML uses valid HTML syntax to express the templating logic, adding only
-   minor extensions to normal HTML.
-   Thanks to this approach, it offers instant
-   syntax checking and autoformatting via [a CLI tool](https://github.com/kristoff-it/superhtml) as well as Language Server support ([VScode Extension](https://marketplace.visualstudio.com/items?itemName=LorisCro.super)).
+PlasmaOJ15, the "brand," is basically the label all of my projects fall under, and started when I was about 10 years old and started experimenting with stop motion.
 
-  ># [NOTE]($block)
-  >The correct file extension for SuperHTML templates is `.shtml`.
+# What is this website?
 
-- [SuperMD](https://zine-ssg.io/docs/supermd/) is a superset of Markdown
-  that, instead of relying on inline HTML, offers new constructs for expressing
-  content embeds without pulling into your content needless layouting concerns.
-  A CLI tool and language server for SuperMD is in the works.
+This website was basically created to be a place for me to show off all my projects in one place. Plus, its cool to just have a website. It was also created to have
+a place to experiment with ideas I have. While there will never be any sort of ARG or elaborate story for this website (as of now, this is up to change), I do plan
+to have secrets and easter eggs hidden throughout the site.
 
-  ># [NOTE]($block)
-  >The correct file extension for SuperMD pages is `.smd`.
+# My Socials (That I acutally post on)
 
-# Zine is alpha software
+ - [YouTube](https://www.youtube.com/@PlasmaOJ15)
+ - [Instagram](https://www.instagram.com/plasmaoj15)
+ - [Itch](https://plasmaoj15.itch.io)
 
-Zine is not yet complete. The main functionality is present and you will be able
-to build even moderately complex static websites without issue.
+# FAQ
 
-That said using Zine today does imply participating in the development process
-to some degree, which usually means inquiring about the development status of
-a feature you need, or reporting a bug.
-
-
-Here are some quicklinks related to Zine:
-
-- Official Website: https://zine-ssg.io/
-- Source Code: https://github.com/kristoff-it/zine/
-- Discord: https://discord.com/invite/B73sGxF
-
-
-
-
-
+Why is there an FAQ if no one asked questions or even knows about this site?
+ - Good question: I don't know
