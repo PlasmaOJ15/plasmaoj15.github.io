@@ -1,0 +1,38 @@
+---
+.title = "Art Archive",
+.date = .date("2026-11-13T00:00:00"),
+.layout = "index.shtml",
+---
+[]($section.id('about'))
+
+# Art Fight
+
+Pages to show my art fight submissions by year:
+ - [2026](/art/artFight2026)
+
+# Art
+
+## PlasmaOJ15 Profile Picture (2026)
+[](<$image.asset("images/ojPFP.png")>)
+
+## PlasmaOJ15 Lean
+[](<$image.asset("images/lean.png")>)
+
+## PlasmaOJ15 Reference Sheet
+[](<$image.asset("images/OJReference.png")>)
+
+## Clampdown Art Contest Submission
+[](<$image.asset("images/clampdown.png")>)
+
+## DND Rogue OC
+[](<$image.asset("images/rogue.png")>)
+
+## The Knight (Deltarune)
+[](<$image.asset("images/knight.png")>)
+
+## Negative Space Test
+[](<$image.asset("images/negative.png")>)
+
+## Wanderer (OC)
+[](<$image.asset("images/wanderer.png")>)
+
