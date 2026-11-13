@@ -3,7 +3,82 @@
 .date = .date("2026-11-12T00:00:00"),
 .layout = "index.shtml",
 ---
+[]($section.id('about'))
 
-MODELS:
+## PlasmaOJ15 (Me)
 
-WIP
+[]($video.asset('files/oj.mp4').loop(true).autoplay(true))
+
+My avatar, used in a lot of my videos
+
+## Kris (Deltarune)
+
+[]($video.asset('files/kris.mp4').loop(true).autoplay(true))
+
+Kris from Deltarune
+
+## The Knight (Hollow Knight)
+
+[]($video.asset('files/knight.mp4').loop(true).autoplay(true))
+
+The Knight from Hollow Knight
+
+## Hornet (Hollow Knight Silksong)
+
+[]($video.asset('files/hornet.mp4').loop(true).autoplay(true))
+
+Hornet from Hollow Knight and Hollow Knight Silksong
+
+## Blue (RGB)
+
+[]($video.asset('files/blue.mp4').loop(true).autoplay(true))
+
+My character from a WIP project
+
+## Hatsune Miku (Vocaloid)
+
+[]($video.asset('files/miku.mp4').loop(true).autoplay(true))
+
+A stylized Hatsune Miku shown off in VRchat
+
+## The Lamb (Cult of the Lamb)
+
+[]($video.asset('files/lamb.mp4').loop(true).autoplay(true))
+
+The Lamb from Cult of the Lamb, showing off VRchat physbones in Unity
+
+## Spacebuns (Instagram User)
+
+[]($video.asset('files/spacebuns.mp4').loop(true).autoplay(true))
+
+My friend and artist [Spacebuns](https://www.instagram.com/spacebuns_u3u/)
+
+## Wanderer (OC)
+
+[](<$image.asset("files/wanderer.jpg")>)
+
+Plague Doctor-ish OC I've had
+
+## Spider-man Digi (OC)
+
+[](<$image.asset("files/spiderManDigi.png")>)
+
+Spider-sona from when that was a thing
+
+## Rotted God (OC)
+
+[](<$image.asset("files/rottedGod.png")>)
+
+OC character
+
+## Rotted Fool (OC)
+
+[](<$image.asset("files/rottedFool.png")>)
+
+OC character
+
+## ??? (OC)
+
+[](<$image.asset("files/chcsrplnhmqj.png")>)
+
+Jy mvmrmp alp jtqes nplitsrelk. Geki la qcspcr, Geki la klr.
