@@ -1,0 +1,78 @@
+---
+.title = "Game Jams of Fall 2026",
+.date = .date("2026-11-19T00:00:00"),
+.layout = "post.shtml",
+---
+
+Hey guys.
+
+I've been wanting to talk about game jams for quite a bit, but I felt like
+it'd be better to wait till I'm actually done with all of them this semester.
+
+Making game is very fun, but also very, very tiring. Creating a game in 2 days
+can be very rewarding, but they also burn me out quite a bit. That being said, I
+actually participated in 3 different jams this semester, thanks in part to the UA
+Game Dev Club (of which I am an officer).
+
+Overall, I am very proud of all the games I created. This was my first time
+participating in weekend long jams as opposed to week long jams, and it was odd.
+Weirdly enough, I feel like I enjoyed the weekend long jams more. The smaller timeframe
+forced me to focus my ideas and scope, and as a result the games felt more comeplete
+by the end. With the week long jams, I often overshoot with my plans, and anytime
+that I am busy during the week, I feel like I could have used that time to make my
+game better.
+
+Anyways, the games were as followed (and are also available [here](/games))
+ - [September 2026: Moving Up](https://plasmaoj15.itch.io/moving-up)
+    
+    A rage game about climbing up a mountain by possessing enemies.
+
+    Created for Texas Game Jam 2026, Theme: Chain Reaction
+
+    This game was really fun to make. Unlike most jams I've done, this concept was
+    the first one I came up with. I started with the idea of chaining enemies into
+    each other, and just added the idea of moving upwards to it.
+    
+    Fun fact: I finished the main mechanic of possession and chaining within the
+    first 6 hours of the jam, the rest of the time was dedicated to creating the
+    actual level of the mountain, as well as the gimmicks.
+
+ - [October 2026: Blue Lou's TV Repair](https://plasmaoj15.itch.io/blue-lous-tv-repair)
+
+    A game about fixing old analogue televisions.
+
+    Created for Ludum Dare 60, Theme: Old Tech
+
+    This game was made in a group, which outside of [TimeSpace](https://plasmaoj15.itch.io/timespace),
+    is the only game made for a jam that I have done in a group. One team member even
+    worked with me on TimeSpace, so it was fun to work together again. This game, while
+    not entirely different from concept, does have a few changes. My original idea was
+    the repairing of tech on a spaceship being attacked by aliens. You would have to work
+    on the tech, then turn around and blast the aliens if they got too close. This idea
+    would become merged with my teamates idea of creating various microgames inspired by
+    old tech. I really enjoyed creating the art for this game, especially the loss/win
+    cutscenes, they are probably my favorite part of the game.
+    
+    Fun Fact: The name "Blue Lou" is heavily inspired by the game [Green Neil's Nuclear Extravaganza](https://spino9999.itch.io/green-neils-nuclear-extravaganza),
+    a competator in the Texas Game Jam 2026. The game became a meme within the UA Game Dev club for
+    its "green mode." Blue Lou even got its own green mode in the settings!
+
+ - [November 2026: Burn Up, Burn Out](https://plasmaoj15.itch.io/burn-up-burn-out-jam)
+
+    A puzzle platformer where you play as a little flame dude, who is constantly burning out!
+
+    Created for the UA Fall 2026 Game Jam, Theme: Burn Out
+
+    This game was made with two goals in mind: Animate a little guy for the protagonist,
+    and use the Godot lighting and particle system. Everything else was secondary. Luckily, I
+    really liked the result, even if I never got to create sound or spend as much time on it.
+    This games concept did not change much throghout the concept stages, however it was more
+    focused on puzzles rather than speed originally. Instead of prioritizing not burning out,
+    the game prioritized puzzle solving and quick thinking. I still think this is true of the
+    first non-tutorial level, but everything after that focuses on speed and skill as opposed to puzzles.
+    I do plan to continue work on this game, I feel like I could make a pretty interesting game
+    with some more time and tuning. Plus, it'll be nice to have a long term project aside from
+    this website to keep coming back too.
+
+    Fun Fact: The title of this game is a reference to [Porter Robinson's 2021 song, Musician](https://youtu.be/q-74HTjRbuY),
+    which is one of my favorite songs of his.
